@@ -129,6 +129,8 @@ Purpose:
 * Generate human-readable responses
 * Answer questions using retrieved context
 
+[GET your API key from Google API studio]
+
 ---
 
 ## Retrieval Pipeline
