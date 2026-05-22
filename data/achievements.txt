@@ -1,0 +1,113 @@
+Achievement:
+Second Place
+
+Event:
+Blockathon Website Development Competition
+
+Organizer:
+Blockchain Club VEC
+
+Result:
+Secured second place among participating teams.
+
+Description:
+Developed a website solution as part of a team during the competition.
+
+Skills Demonstrated:
+Frontend development
+Problem solving
+Team collaboration
+
+Achievement:
+First place
+
+Event:
+Digitus Design Dazzle
+
+Organizer:
+RMD Engineering College
+
+Result:
+Secured first place.
+
+Description:
+Developed a poster on the given problem statement.
+
+Skills Demonstrated:
+UI/UX Skills
+Frontend designing abilities
+
+Achievement:
+Second Place
+
+Event:
+Code debugging
+
+Organizer:
+Jerusalem Engineering College
+
+Result:
+Secured second place
+
+Description:
+Found bugs in the given code.
+
+Skills Demonstrated:
+Problem solving ability.
+
+Achievement:
+First Place
+
+Event:
+Code debugging
+
+Organizer:
+Veltech University
+
+Result:
+Secured First place
+
+Description:
+Solved problems in a multi round team event.
+
+Skills Demonstrated:
+Problem solving Skills
+Teamwork
+
+Achievement:
+First place
+
+Event:
+Fatal puzzle
+
+Organizer:
+EEE department of Velammal Engineering College
+
+Result:
+Secured first place
+
+Description:
+Solved series of riddles in multiple rounds.
+
+Skills Demonstrated:
+Problem solving
+Critical thinking
+
+Achievement:
+First Place
+
+Event:
+Connexion
+
+Organizer:
+EEE department of Velammal Engineering College
+
+Result:
+Secured first place
+
+Description:
+Had to quickly match the pictures to find the answers and hidden meanings.
+
+Skills Demonstrated:
+Quick thinking
+Critical thinking

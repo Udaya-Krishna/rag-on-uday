@@ -1,0 +1,133 @@
+Project Name: Revenue Leakage Detection using Machine Learning
+
+Purpose:
+Built as part of a hackathon to identify revenue leakage and anomalies in supermarket and telecom domains.
+
+Technologies:
+React
+Python
+Machine Learning
+FASTAPI
+OLLAMA
+Gemini API
+XGBoost
+Matplotlib/PyPlot
+
+Features:
+Detects revenue leakage using machine learning.
+Uses XGBoost algorithm for anomaly detection.
+Supports supermarket and telecom domains.
+Visualizes anomaly patterns using charts and graphs.
+Converts technical anomaly insights into understandable information for non-technical users.
+
+Contribution:
+Developed backend services.
+Integrated machine learning model with backend APIs.
+Connected API endpoints.
+Integrated OLLAMA for AI capabilities.
+
+Challenges:
+Backend endpoint integration.
+OLLAMA integration.
+
+--------------------------------------------------
+
+Project Name: Crop Recommendation System using Machine Learning
+
+Purpose:
+Reduce farmer losses caused by lack of agricultural knowledge by recommending suitable crops.
+
+Technologies:
+HTML
+CSS
+JavaScript
+Python
+Machine Learning
+Flask
+Weather API
+Random Forest
+
+Features:
+Predicts suitable crops using Random Forest algorithm.
+Accepts soil nutrient values:
+Nitrogen (N)
+Phosphorus (P)
+Potassium (K)
+pH level
+Rainfall data
+Uses weather information for recommendations.
+
+Contribution:
+Developed frontend interface.
+Built seamless user experience.
+
+--------------------------------------------------
+
+Project Name: CGPA Calculator
+
+Purpose:
+Help Computer Science Engineering students calculate GPA and CGPA according to 2019 regulations.
+
+Technologies:
+HTML
+CSS
+JavaScript
+
+Features:
+Accepts grades for all subjects.
+Calculates GPA.
+Calculates CGPA.
+Uses DOM manipulation for dynamic result updates.
+
+Contribution:
+Ideation.
+Frontend development.
+Application design.
+
+--------------------------------------------------
+
+Project Name: Gate Scanner
+
+Purpose:
+Built to simplify student entry management in college.
+
+Technologies:
+HTML
+CSS
+JavaScript
+OCR
+Tesseract OCR
+
+Features:
+Scans student ID cards.
+Extracts student information automatically.
+Stores entry details.
+Allows department heads to download reports.
+Supports late-entry permission recording.
+
+Contribution:
+Designed and developed entire system independently.
+Solo project.
+
+--------------------------------------------------
+
+Project Name: Gamification of Education
+
+Purpose:
+Make learning engaging and enjoyable through game-based education.
+
+Technologies:
+HTML
+CSS
+JavaScript
+
+Features:
+Contains six educational games.
+Designed for multiple age groups.
+Supports interactive learning experiences.
+Uses gamification principles to improve engagement.
+
+Contribution:
+Ideation.
+Game optimization.
+Gameplay design.

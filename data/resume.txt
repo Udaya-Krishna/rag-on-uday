@@ -1,0 +1,83 @@
+UDAYA KRISHNA KM
+Computer Science Engineering Student
+
+Mail id: udayakrishnacse@gmail.com
+
+linkedin:
+username: Udaya-Krishna-21aug
+link: https://linkedin.com/in/Udaya-Krishna-21aug
+
+Github:
+username: Udaya-Krishna
+link: https://github.com/Udaya-Krishna
+
+Youtube:
+username: udayakrishna21
+link: https://www.youtube.com/@udayakrishna21
+
+Portfolio site link: udayakrishna.in
+
+Summary
+Computer Science engineering student skilled in web development, machine learning and AWS cloud
+computing. 
+
+Education
+Bachelor of Engineering in Computer Science and Engineering from Velammal Engineering College, Chennai.
+Batch 2022-2026
+
+Achievements
+- First place in code debugging in Veltech college
+- First place in poster designing at RMD engineering college
+- Third place in code debugging at Jerusalem Engineering College
+- Second place in Blockathon, a web development event at Velammal Engineering College
+
+Experience
+AWS intern at cognizant
+- Worked on a healthcare-based cloud project utilizing multiple AWS services for data processing
+and deployment
+- Implemented cloud solutions using services like EC2, S3, and Lambda to support scalable
+application workflows
+
+Certifications
+- NPTEL java certificate
+- NPTEL C programming Certificate
+- Introduction to MongoDB
+- Digital security fundamentals
+
+Skills
+- C
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- Javascript
+- MongoDB
+- AWS
+- Github
+- React
+
+Projects
+
+1. Revenue Leakage Detection Using ML
+Built a full-stack ML-powered web app to detect revenue anomalies in supermarket and telecom
+data
+Developed Flask API with scikit-learn & XGBoost achieving 95%+ accuracy on CSV datasets
+Designed React dashboards with Chart.js & Plotly for real-time visualization and reporting
+Implemented data preprocessing, feature engineering, and automated report generation using
+Gemini AI
+
+2. EcoCropX - Crop recommendation system using ML
+Developed a responsive and user-friendly frontend for EcoCropX, an AI-powered smart farming
+assistant that suggests optimal crops based on geolocation, climate, and cultivation duration.
+Built intuitive navigation and state handling using vanilla JavaScript and modular design
+principles.
+Optimized UI/UX for mobile and desktop devices, improving accessibility and performance
+across platforms
+
+Languages known:
+English
+Tamil
+Telugu
+Hindi
+French
